@@ -8,3 +8,13 @@ C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\bin\Debug\Travis
 C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\bin\Debug\TravisGame.pdb
 C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.exe
 C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.pdb
+C:\w\travisGame\bin\Debug\TravisGame.exe.config
+C:\w\travisGame\obj\Debug\TravisGame.exe
+C:\w\travisGame\obj\Debug\TravisGame.pdb
+C:\w\travisGame\bin\Debug\TravisGame.exe
+C:\w\travisGame\bin\Debug\TravisGame.pdb
+C:\w\travisGame\obj\Debug\TravisGame.csprojResolveAssemblyReference.cache
+C:\w\travisGame\obj\Debug\TravisGame.Form1.resources
+C:\w\travisGame\obj\Debug\TravisGame.Form2.resources
+C:\w\travisGame\obj\Debug\TravisGame.Properties.Resources.resources
+C:\w\travisGame\obj\Debug\TravisGame.csproj.GenerateResource.Cache
