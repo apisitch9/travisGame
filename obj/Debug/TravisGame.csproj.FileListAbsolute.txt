@@ -1,0 +1,10 @@
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\bin\Debug\TravisGame.exe.config
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.csprojResolveAssemblyReference.cache
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.Form1.resources
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.Form2.resources
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.Properties.Resources.resources
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.csproj.GenerateResource.Cache
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\bin\Debug\TravisGame.exe
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\bin\Debug\TravisGame.pdb
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.exe
+C:\Users\apisi_000\OneDrive\appdevproject\TravisGame\TravisGame\obj\Debug\TravisGame.pdb
